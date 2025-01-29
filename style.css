@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#wrapper {
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+
+#wrapper header {
+    margin-top: 28px;
+    margin-bottom: 20px;
+    margin-left: -75px;
+}
+.para {
+    width: 29vw;
+    margin: auto;
+    text-align: left;
+    padding-top: 17px;
+}
+
+section p {
+    margin-bottom: 18px;
+    color: rgba(0, 0, 0, 0.6);
+    word-spacing: 4px;
+    font-size: 16.25px;
+}
